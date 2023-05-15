@@ -10,7 +10,7 @@ To get started with this project, simply clone the repository and open the index
 bash
 Copy code
 
-git clone https://github.com/your-username/basic-clock.git
+git clone https://github.com/WarunaDissanayake1234/Basic-Clock-With-JavaScript.git
 Prerequisites
 You will need a modern web browser that supports HTML5, CSS3, and ES6 JavaScript.
 
