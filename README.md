@@ -1,4 +1,6 @@
 Basic Clock with JavaScript
+
+
 This is a simple clock built using HTML, CSS, and JavaScript. It displays the current time and updates every second.
 
 Getting Started
