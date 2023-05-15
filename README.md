@@ -34,7 +34,7 @@ This project was inspired by W3Schools.
 
 Authors
 
-Your Name - Initial work
+Waruna Dissanayake 
 Future Development
 In the future, this clock could be improved with the following features:
 
